@@ -5,7 +5,7 @@ This repository aims to publically share the training and test data of TMHINT-QI
 ## TMHINT-QI version II 
 The TMHINT-QI version II  is the updated version of the original <a href="https://drive.google.com/file/d/1TMDiz6dnS76hxyeAcCQxeSqqEOH4UDN0/view?usp=sharing" target="_blank">TMHINT-QI</a> dataset. The version I dataset has no unseen scenarios for the evaluation set. Therefore, the version II dataset aims to accommodate such concerns by modifying the training set and providing the unseen systems for the evaluation set. 
 
-### Training and Development Set
+### Training Set
 The training set consists of four scene environments: clean, babble, white, and pink noises. It also consists of noisy, clean, and enhanced utterances from four systems, including Minimum-mean Square Error (MMSE), Deep Denoising Autoencoder (DDAE), Fully Convolutional Network (FCN), and Transformer. The training set consists of 11053 utterances with corresponding quality (0-5) and intelligibility (0-10) scores.
 
 Please refer to the following <a href="https://www.dropbox.com/s/yc6yhpjb92xa5yy/VOICEMOS2023_DISTRO.tar.gz?dl=0" target="_blank">link</a> for the updated split for the training set, and please download the corresponding utterances in the following <a href="https://drive.google.com/file/d/1TMDiz6dnS76hxyeAcCQxeSqqEOH4UDN0/view?usp=sharing" target="_blank">link</a>. 
